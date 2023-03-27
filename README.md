@@ -1,1 +1,5 @@
-[![B-tronics GitHub stats](https://github-readme-stats.vercel.app/api?username=B-tronics](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=b-tronics&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=b-tronics&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=b-tronics&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=b-tronics&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=b-tronics&theme=solarized_dark)
